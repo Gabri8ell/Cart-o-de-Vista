@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627518669198",
+    "project_id": "directed-post-345520",
+    "storage_bucket": "directed-post-345520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627518669198:android:37993a119bf09cb56c24df",
+        "android_client_info": {
+          "package_name": "app.mypc.cartodevisitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627518669198-6safnb6vcmggusgi8oeb5aqds9s7re9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lJUPZVX3pdyVYKaxbEUAaGxQ46pT3TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627518669198-6safnb6vcmggusgi8oeb5aqds9s7re9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
